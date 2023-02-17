@@ -1,8 +1,8 @@
 # TOOLS
 
 ##print_month_calendar
-       print calendar in text mode
-       example:
+
+print calendar in text mode, for example:
 
        evers@MiWiFi-R3600-srv:~/MyGithub/TOOLS/print_month_calendar$ ./print_month_calendar.py 
        February 2023
