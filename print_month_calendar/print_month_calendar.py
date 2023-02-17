@@ -5,7 +5,7 @@ import datetime
 import sys
 
 split = " "
-split = "\t"
+#split = "\t"
 
 
 if split == "\t":
